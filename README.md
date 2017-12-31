@@ -11,6 +11,7 @@
 * brownie_testdata 「チェックアウト : https://github.com/bluebackblue/brownie 」 
 
 ## third party
+このリポジトリに含まれるサード パーティ ライセンスおよび利用規約を記載します。
 
 ### ドルフィー
 * http://www.superdollfie.net/otoiawase/notice/
