@@ -1,6 +1,10 @@
 # brownie_testdata
 「brownie」のテストプロジェクト用データです。
 
+##license
+* brownie_testdataライセンス
+* https://github.com/bluebackblue/brownie_testdata/blob/master/LICENSE.txt
+
 ## folder structure
 フォルダ構造
 * brownie 「チェックアウト : https://github.com/bluebackblue/brownie 」
