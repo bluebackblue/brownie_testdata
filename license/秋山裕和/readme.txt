@@ -1,16 +1,5 @@
-サイトより
-
-http://www.hmix.net/music_gallery/image/world.htm
-
-当サイトでは、秋山裕和が映像や舞台用に作ったBGMをフリー(無料)素材として公開しています。
-当サイトの楽曲の権利はJASRACに委託せず、全て個人で管理しています。 
-非商用使用は完全フリー、商用利用にも低価格にて提供しています。
-
-Youtubeチャンネルをオープンしました！
-H/MIX GALLERYの楽曲から季節毎のプレイリストを作ったりしてます。
-全曲フリーのBGMなので、作業用BGMや睡眠用BGMとして聞き流しながら、素材探しをしていただけます。
-まだ立ち上げて間もないですが、チャンネル登録して応援しいただければ嬉しいです☆
-
-商用利用規約とライセンス購入方法
+秋山裕和
+http://www.hmix.net/
+http://www.hmix.net/music_gallery/index.htm
 http://www.hmix.net/music_gallery/info.htm
-
+上記サイトの音楽ファイルを使用しています。
