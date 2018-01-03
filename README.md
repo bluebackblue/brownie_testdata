@@ -17,6 +17,12 @@
 * http://www.superdollfie.net/otoiawase/notice/
 * （創作造形©ボークス・造形村）
 
+### 秋山裕和
+* http://www.hmix.net/
+* http://www.hmix.net/music_gallery/index.htm
+* http://www.hmix.net/music_gallery/info.htm
+* 上記サイトの音楽ファイルを使用しています。
+
 ### ピアプロ・キャラクター・ライセンス(PCL)について
 * http://piapro.jp/license/character_guideline
 * http://piapro.jp/license/pcl/summary
